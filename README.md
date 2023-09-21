@@ -2,8 +2,9 @@
 Simple Key Logger 
 
 
-before running :
-pip install keyboard
-pip install pynput
+<h2>before running :
+</h2>
+pip install keyboard<br>
+pip install pynput<br>
 
 press esc to end logging 
