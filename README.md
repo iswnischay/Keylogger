@@ -12,14 +12,22 @@
  
 
 </p>
-
-
 <h4>before running :</h4>
 <ul>
   <li>Make sure you have python isnatlled </li>
   <li>pip install keyboard</li>
   <li>pip install pynput</li>
 </ul>
+
+
+<h4>Usage:</h4>
+<ul>
+  <li>git clone  https://github.com/iswnischay/Keylogger.git</li>
+  <li>cd Keylogger</li>
+  <li>py log.py</li>
+</ul>
+
+
 
 
 
