@@ -15,8 +15,11 @@
 
 
 <h4>before running :</h4>
-Make sure you have python isnatlled <br>
-pip install keyboard<br>
-pip install pynput<br>
+<ul>
+  <li>Make sure you have python isnatlled </li>
+  <li>pip install keyboard</li>
+  <li>pip install pynput</li>
+</ul>
+
 
 
