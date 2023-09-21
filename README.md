@@ -7,4 +7,4 @@ Simple Key Logger
 pip install keyboard<br>
 pip install pynput<br>
 
-press esc to end logging 
+
