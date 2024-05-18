@@ -14,7 +14,7 @@
 </p>
 <h4>before running :</h4>
 <ul>
-  <li>Make sure you have python isnatlled </li>
+  <li>Make sure you have python installed</li>
   <li>pip install keyboard</li>
   <li>pip install pynput</li>
 </ul>
